@@ -443,46 +443,4 @@ if match:
 match  = re.search(pattern, " We scattered") # doesn't match
 if match:
     print("Match 3")
-    
-  
-    
-
-    
-
-    
-    
-    
-    
-    
-
-
-
-
-    
-    
-
-    
-    
-    
-
-
-
-
-
-
-    
-
-    
-
-    
-    
-
-
-
-
-
-
-
-
-
 
